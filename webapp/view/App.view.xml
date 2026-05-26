@@ -1,5 +1,4 @@
 <mvc:View controllerName="project3.controller.App"
-    displayBlock="true"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns:f="sap.f"
     xmlns="sap.m">
