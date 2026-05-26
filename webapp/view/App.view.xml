@@ -1,0 +1,13 @@
+<mvc:View controllerName="project3.controller.App"
+    displayBlock="true"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:f="sap.f"
+    xmlns="sap.m">
+    <App id="app">
+        <f:FlexibleColumnLayout id="fapp" layout="OneColumn" backgroundDesign="Solid">
+            <f:beginColumnPages />
+            <f:midColumnPages />
+            <f:endColumnPages />
+        </f:FlexibleColumnLayout>
+    </App>
+</mvc:View>
